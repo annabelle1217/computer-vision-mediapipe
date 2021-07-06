@@ -15,9 +15,9 @@ conda create -n <your-env-name> python=3.8
 conda activate <your-env-name>
 ```
 
-4. Install jupyter notebook in your environment and `nb_conda_kernels` to be able to find your environment in jupyter notebook
+4. If you want to see kernel as environment name in jupyter notebook
 ```
-pip install jupyter nb_conda_kernels
+pip install nb_conda_kernels
 ```
 
 5. Open jupyter notebook in browser
