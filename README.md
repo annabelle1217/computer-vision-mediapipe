@@ -1,7 +1,6 @@
 # Computer Vision using MediaPipe
 
 ## Setup
-
 1. Git clone this project
 ```
 git clone https://github.com/annabelle-97/computer-vision-mediapipe.git
@@ -15,17 +14,18 @@ conda create -n <your-env-name> python=3.8
 conda activate <your-env-name>
 ```
 
-4. Install jupyter notebook
+4. Install Dependencies
 ```
-pip install jupyter
+pip install jupyter mediapipe opencv-python pandas scikit-learn
 ```
 
-5. Open jupyter notebook in browser
+5. Open Jupyter Notebook
 ```
 jupyter-notebook
 ```
 
 And you are good to go!
+
 Note for newbie: Copy and run the block code in any terminal  
 
 ## Cite
