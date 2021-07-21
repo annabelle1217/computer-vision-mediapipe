@@ -10,6 +10,7 @@ git clone https://github.com/annabelle-97/computer-vision-mediapipe.git
 
 3. Create a conda environment that has all the required libraries installed and activate it.
 ```
+cd computer-vision-mediapipe
 conda env create -f environment.yml
 conda activate mediapipe
 ```
